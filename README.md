@@ -12,4 +12,4 @@ Usando la API pública de Rick & Morty
 `npm start`
 
 ### `Visualizacion`
-![](public/images.png)
+![](public/image.png)
